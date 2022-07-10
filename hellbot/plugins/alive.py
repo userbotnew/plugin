@@ -11,7 +11,7 @@ from . import *
 #-------------------------------------------------------------------------------
 
 ALIVE_TEMP = """
-<b><i>🔥🔥ɦɛʟʟɮօt ɨs օռʟɨռɛ🔥🔥</b></i>
+<b><i>🔥🔥DEVIL IS ALIVE🔥🔥</b></i>
 <i><b>↼ Øwñêr ⇀</i></b> : 『 <a href='tg://user?id={}'>{}</a> 』
 ╭──────────────
 ┣─ <b>» Telethon ~</b> <i>{}</i>
@@ -20,7 +20,7 @@ ALIVE_TEMP = """
 ┣─ <b>» Uptime ~</b> <i>{}</i>
 ┣─ <b>» Ping ~</b> <i>{}</i>
 ╰──────────────
-<b><i>»»» <a href='https://t.me/its_hellbot'>[ †hê Hêllẞø† ]</a> «««</i></b>
+<b><i>»»» <a href='https://t.me/friendsforeverunique'>[ DEVIL ULTRA ]</a> «««</i></b>
 """
 
 msg = """{}\n
